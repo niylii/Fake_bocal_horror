@@ -70,7 +70,7 @@ async def summon_users(channel):
 
     await wait_for_responses(channel, selected_users)
 
-# total chlada but works
+# total chlada but works but the penalty thing ... we'll see about that later
 async def wait_for_responses(channel, selected_users):
     def check(m):
         return m.channel == channel and m.content == '/here' and m.author in selected_users
