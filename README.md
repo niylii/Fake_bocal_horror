@@ -1,5 +1,12 @@
 # Lord Vorldemort bot:
 
+> **Note (4 months later):**  
+> After revisiting this project, I realized there's still some polish left to do.  
+> planing to:
+> - Add proper **User response handling** for better usability
+> - A few **minor bugs** are still lurking around needed to be overlooked... (my bad)
+> Growth is real—stay tuned for the upgrade (no one is waiting for those updates but still i have to be semi pro).
+
 ## Overview
 
 This Discord bot is designed to facilitate a programming challenge system within a Discord server. It utilizes the Gemini API to generate programming challenges and questions for users. The bot summons eligible users based on their roles and waits for their responses.
