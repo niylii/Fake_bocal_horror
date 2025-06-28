@@ -5,6 +5,7 @@
 > planing to:
 > - Add proper **User response handling** for better usability
 > - A few **minor bugs** are still lurking around needed to be overlooked... (my bad)
+> -
 > Growth is real—stay tuned for the upgrade (no one is waiting for those updates but still i have to be semi pro).
 
 ## Overview
